@@ -26,3 +26,5 @@ leetcode-2025/
 | #   | Title                                      | Difficulty | Link                                       |
 |-----|--------------------------------------------|------------|--------------------------------------------|
 | 1   | Two Sum                                    | Easy       | [Solution](./easy/two-sum.js)              |
+| 2   | Concatenation of Array                                   | Easy       | [Solution](./easy/concatenation-of-array.js)              |
+| 3   | Two Sum of Subset XOR totals                                    | Easy       | [Solution](./easy/sum-of-subset-xor-totals.js)              |
