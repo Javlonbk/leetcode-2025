@@ -26,5 +26,7 @@ leetcode-2025/
 | #   | Title                                      | Difficulty | Link                                       |
 |-----|--------------------------------------------|------------|--------------------------------------------|
 | 1   | Two Sum                                    | Easy       | [Solution](./easy/two-sum.js)              |
-| 2   | Concatenation of Array                                   | Easy       | [Solution](./easy/concatenation-of-array.js)              |
-| 3   | Two Sum of Subset XOR totals                                    | Easy       | [Solution](./easy/sum-of-subset-xor-totals.js)              |
+| 2   | Concatenation of Array                     | Easy       | [Solution](./easy/concatenation-of-array.js)              |
+| 3   | Two Sum of Subset XOR totals               | Easy       | [Solution](./easy/sum-of-subset-xor-totals.js)              |
+| 3   | Built Array from Permutation               | Easy       | [Solution](./easy/built-array-from-permutation.js)              |
+| 3   | Number of Good Pairs                       | Easy       | [Solution](./easy/number-of-good-pairs.js)              |
